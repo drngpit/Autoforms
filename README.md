@@ -1,5 +1,7 @@
 # 📄 Autoforms
 
+[![Watch the playlist](https://raw.githubusercontent.com/Saran-K-07/Autoforms/refs/heads/main/Youtube%20Thumbnail.jpg)](https://www.youtube.com/playlist?list=PL0e0g6qZUTslWIn3DZ-lF4odhLRwwDNsS)
+
 ## 📌 Overview
 
 **Autoforms** is a Google Apps Script project that automates the processing of Google Form submissions by:
